@@ -1,0 +1,31 @@
+.test1 {
+    display: flex;
+}
+
+.test1234 {
+    display: inline;
+    color: red;
+}
+.background {
+    background-color: red;
+    background-position: right;
+    background-size: cover;
+    background-repeat: repeat-x;
+}
+
+.a{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    display:block;
+  }
+  .test-color{
+      color:#000000;
+      font-size:56px;
+  }
